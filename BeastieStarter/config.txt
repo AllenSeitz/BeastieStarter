@@ -1,0 +1,7 @@
+resolutionX=800
+resolutionY=600
+refreshRate=60
+numberOfApplications=2
+selectionLeft=LEFT
+selectionRight=RIGHT
+selectionChoose=ENTER
